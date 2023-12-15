@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "forward_list": "cpp",
+        "set": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
